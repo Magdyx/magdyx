@@ -1,16 +1,15 @@
-### Hi there I am Magdy👋
+### Hi there I am [Magdy](https://www.linkedin.com/in/mohamed-abouelnour/)👋
 
-<!--
-**Magdyx/magdyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Years Badge](https://badges.pufler.dev/years/sabratech)](https://badges.pufler.dev)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat-square&logo=ruby-on-rails&logoColor=white)
+![Java](https://img.shields.io/badge/-java-red?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=Ruby)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-square&logo=linux)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-gray?style=flat-square&logo=ubuntu)
 
-Here are some ideas to get you started:
+![Github Stats](https://github-readme-stats.vercel.app/api?username=magdyx&count_private=true&show_icons=true&include_all_commits=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magdyx&hide=TeX&layout=compact)
